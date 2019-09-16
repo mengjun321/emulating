@@ -1,6 +1,6 @@
 # emulating
 
 ```txt
-Creating a old branch is quick & simple
+Creating a old branch is quick and simple
 ```
 
